@@ -1,0 +1,7 @@
+<?php
+$username = "s1272188"
+$password = "pZHXvNzsCt6SrKmM"
+$database = "d1272188"
+$link = mysli_connect("127.0.0.1", $username, $password, $database);
+$output = array()
+$Sql_Query = "insert into Cars ()"
