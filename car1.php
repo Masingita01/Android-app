@@ -10,7 +10,7 @@ if(mysqli_query($link,$Sql_Query)){
 	echo 'Data Submit Successfully';
 }
 else{
-echo 'Try Again';
+echo ' Again';
 }
 mysqli_close($link);
 ?>
