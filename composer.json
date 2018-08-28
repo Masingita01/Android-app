@@ -1,7 +1,7 @@
 {
     "autoload": {
         "psr-4": {
-            "Masingita01\\Demo\\": "src/",
+            "Masingita01\\Demo\\": "file/",
             "Masingita01\\Demo\\Tests\\": "tests/"
         }
     }
